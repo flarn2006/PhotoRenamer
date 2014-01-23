@@ -1,0 +1,9 @@
+c:\src\vs2013\PhotoRenamer\PhotoRenamer\bin\Release\PhotoRenamer.exe.config
+c:\src\vs2013\PhotoRenamer\PhotoRenamer\bin\Release\PhotoRenamer.exe
+c:\src\vs2013\PhotoRenamer\PhotoRenamer\bin\Release\PhotoRenamer.pdb
+c:\src\vs2013\PhotoRenamer\PhotoRenamer\obj\Release\PhotoRenamer.AboutForm.resources
+c:\src\vs2013\PhotoRenamer\PhotoRenamer\obj\Release\PhotoRenamer.MainForm.resources
+c:\src\vs2013\PhotoRenamer\PhotoRenamer\obj\Release\PhotoRenamer.Properties.Resources.resources
+c:\src\vs2013\PhotoRenamer\PhotoRenamer\obj\Release\PhotoRenamer.csproj.GenerateResource.Cache
+c:\src\vs2013\PhotoRenamer\PhotoRenamer\obj\Release\PhotoRenamer.exe
+c:\src\vs2013\PhotoRenamer\PhotoRenamer\obj\Release\PhotoRenamer.pdb

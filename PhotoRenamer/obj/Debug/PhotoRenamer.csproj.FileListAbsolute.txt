@@ -1,0 +1,11 @@
+C:\Users\Flarn\AppData\Local\Temporary Projects\PhotoRenamer\bin\Debug\PhotoRenamer.exe.config
+c:\src\vs2013\PhotoRenamer\PhotoRenamer\bin\Debug\PhotoRenamer.exe.config
+c:\src\vs2013\PhotoRenamer\PhotoRenamer\bin\Debug\PhotoRenamer.exe
+c:\src\vs2013\PhotoRenamer\PhotoRenamer\bin\Debug\PhotoRenamer.pdb
+c:\src\vs2013\PhotoRenamer\PhotoRenamer\obj\Debug\PhotoRenamer.csprojResolveAssemblyReference.cache
+c:\src\vs2013\PhotoRenamer\PhotoRenamer\obj\Debug\PhotoRenamer.MainForm.resources
+c:\src\vs2013\PhotoRenamer\PhotoRenamer\obj\Debug\PhotoRenamer.Properties.Resources.resources
+c:\src\vs2013\PhotoRenamer\PhotoRenamer\obj\Debug\PhotoRenamer.csproj.GenerateResource.Cache
+c:\src\vs2013\PhotoRenamer\PhotoRenamer\obj\Debug\PhotoRenamer.exe
+c:\src\vs2013\PhotoRenamer\PhotoRenamer\obj\Debug\PhotoRenamer.pdb
+c:\src\vs2013\PhotoRenamer\PhotoRenamer\obj\Debug\PhotoRenamer.AboutForm.resources

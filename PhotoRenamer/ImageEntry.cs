@@ -34,5 +34,19 @@ namespace PhotoRenamer
         {
             return Name;
         }
+
+        public override bool Equals(object obj)
+        {
+            if (obj is ImageEntry) {
+                return (obj as ImageEntry).fullName.Equals(fullName);
+            } else {
+                return false;
+            }
+        }
+
+        public override int GetHashCode()
+        {
+            return fullName.GetHashCode();
+        }
     }
 }

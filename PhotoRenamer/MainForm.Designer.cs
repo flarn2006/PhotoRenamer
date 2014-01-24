@@ -170,6 +170,7 @@
             // 
             this.pictureBox.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.pictureBox.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.pictureBox.ErrorImage = global::PhotoRenamer.Properties.Resources.notfound;
             this.pictureBox.Location = new System.Drawing.Point(0, 25);
             this.pictureBox.Name = "pictureBox";
             this.pictureBox.Size = new System.Drawing.Size(577, 398);

@@ -7,3 +7,4 @@ c:\src\vs2013\PhotoRenamer\PhotoRenamer\obj\Release\PhotoRenamer.Properties.Reso
 c:\src\vs2013\PhotoRenamer\PhotoRenamer\obj\Release\PhotoRenamer.csproj.GenerateResource.Cache
 c:\src\vs2013\PhotoRenamer\PhotoRenamer\obj\Release\PhotoRenamer.exe
 c:\src\vs2013\PhotoRenamer\PhotoRenamer\obj\Release\PhotoRenamer.pdb
+c:\src\vs2013\PhotoRenamer\PhotoRenamer\obj\Release\PhotoRenamer.csprojResolveAssemblyReference.cache
